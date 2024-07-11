@@ -23,6 +23,8 @@ You'll need a good Python3 install, along with [get-pip.py](https://bootstrap.py
 Once you have the packages above, I've made a convenient requirements.txt that installs all the requirement libraries to run the model!
 ```shell
 pip install -r requirements.txt
+pip install mediapipe
+pip install cvzone
 ```
 
 ```shell
