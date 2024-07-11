@@ -24,7 +24,6 @@ Once you have the packages above, I've made a convenient requirements.txt that i
 ```shell
 pip install -r requirements.txt
 pip install mediapipe
-pip install cvzone
 ```
 
 ```shell
